@@ -7,14 +7,13 @@ No momento são duas pastas: disciplinas e testes. Em *Disciplinas* é possível
 # Em Disciplinas...
 
 Fique atento ao código dos diretórios:
-> aed para Análise Exploratórida de Dados
-> osint para Open Source Investigation
-> penscomp para Pensamento Computacional
-> tded para Transparência, Reprodutibilidade e Discurso Ético dos Dados
+- aed para Análise Exploratórida de Dados
+- osint para Open Source Investigation
+- penscomp para Pensamento Computacional
+- tded para Transparência, Reprodutibilidade e Discurso Ético dos Dados
 
 Dentro deles, os arquivos seguem a nomenclatura:
 
-> AAAAMMDD_codigodadisciplina_especificacao_autoria.extensao
-
-Exemplo: 210830_tded_exercicioaula3_thiagoaraujo.docx
+- AAAAMMDD_codigodadisciplina_especificacao_autoria.extensao
+- Exemplo: 210830_tded_exercicioaula3_thiagoaraujo.docx
 
